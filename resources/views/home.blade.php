@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <b>Hola, estos son los cursos</b>
+  <b>HOME</b>
 </body>
 
 </html>

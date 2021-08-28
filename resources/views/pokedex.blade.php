@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <b>Hola, estos son los cursos</b>
+  <b>POKEDEX</b>
 </body>
 
 </html>
