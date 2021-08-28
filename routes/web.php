@@ -12,3 +12,8 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::view('/', 'home');
+Route::view('/login', 'login');
+Route::view('/signin', 'signin');
+Route::view('/pokedex', 'pokedex');
+Route::view('/pokemon', 'pokemon');
