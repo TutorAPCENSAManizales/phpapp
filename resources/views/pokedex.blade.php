@@ -10,6 +10,13 @@
 
 <body>
   <b>POKEDEX</b>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/login">Login</a></li>
+    <li><a href="/signin">Signin</a></li>
+    <li><a href="/pokedex">Pokedex</a></li>
+    <li><a href="/pokemon">Pokemon</a></li>
+  </ul>
 </body>
 
 </html>
